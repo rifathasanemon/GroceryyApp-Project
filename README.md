@@ -23,4 +23,13 @@ This is a grocery app for online shopping. Our app allows users to get the exper
 
 ###Screen Shots
 
-- 
+<p align="center">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/firebase.PNG">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165647.png">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165710.png">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165742.png">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_171014.png">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165751.png">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165804.png">
+  <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165827.png">
+</p>
