@@ -4,7 +4,7 @@ CSCI 4311-MOBILE APPLICATION DEVELOPMENT (Group Project)
 ### GROUP MEMBERS
 - **Emon Rifat Hasan     			(1832901)**
 - **Amnah Salah Majzob Abdelmaged       (1824962)**
-- **:Hibo Sulieman Amen       (1825120)**
+- **Hibo Sulieman Amen       (1825120)**
 - **Rafa Elean Sugafta        (2011908)**
 
 
