@@ -15,4 +15,4 @@ Our App Includes 3 major functions, following below :
 - The use of HTTP library for fetching img online
 - The use of firebase for authentication
 
-#Screen Shots of Project
+### Screen Shots of Project
