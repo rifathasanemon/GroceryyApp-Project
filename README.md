@@ -17,7 +17,7 @@ Our App Includes 3 major functions, following below :
 
 ### Screen Shots of Project
 
-- **Firebase ![Firebase Authentication](https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/firebase.PNG)
+- **Firebase ![Firebase Authentication]<img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/firebase.PNG" width=50% height=50%>
 - **Get Start Page ![Get Start Page](https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165647.png)
 - **Signin Page![Sign In Page](https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_171014.png)
 - **Login Page ![Login Page](https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165710.png)
