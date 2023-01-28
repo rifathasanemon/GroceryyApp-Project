@@ -16,3 +16,4 @@ Our App Includes 3 major functions, following below :
 - The use of firebase for authentication
 
 ### Screen Shots of Project
+![Firebase Authentication](https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/firebase.PNG)
