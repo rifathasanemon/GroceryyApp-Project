@@ -17,11 +17,11 @@ Our App Includes 3 major functions, following below :
 
 ### Screen Shots of Project
 
-- **Firebase ![Firebase Authentication]<img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/firebase.PNG">
-- **Get Start Page ![Get Start Page]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165647.png width=50% height=50%>
-- **Signin Page![Sign In Page]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_171014.png width=50% height=50%>
-- **Login Page ![Login Page]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165710.png width=50% height=50%>
-- **Login In ![Login In]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165742.png width=50% height=50%>
-- **Home Page ![Home Page]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165751.png width=50% height=50%>
-- **Cart Page ![Cart Page]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165804.png width=50% height=50%>
-- **SuccessFull Payment Page ![Payment Page]<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165827.png width=50% height=50%>
+- ** Firebase <img src="https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/firebase.PNG">
+- ** Get Start Page <img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165647.png width=50% height=50%>
+- ** Signin Page<img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_171014.png width=50% height=50%>
+- ** Login Page <img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165710.png width=50% height=50%>
+- ** Login In <img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165742.png width=50% height=50%>
+- ** Home Page <img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165751.png width=50% height=50%>
+- ** Cart Page <img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165804.png width=50% height=50%>
+- ** SuccessFull Payment Page <img src=https://github.com/rifathasanemon/GroceryyApp-Project/blob/main/ProjectScreenShot/Screenshot_20230128_165827.png width=50% height=50%>
