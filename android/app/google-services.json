@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412160861243",
+    "project_id": "groceryfirebase-7cf86",
+    "storage_bucket": "groceryfirebase-7cf86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412160861243:android:5b668c339167cb446c281e",
+        "android_client_info": {
+          "package_name": "com.emonrifat.grocery2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412160861243-8ek9r715t40n4m89i9vijfebnjragvl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzCPAvyPT6eucPaXJjOZFNZ82oK1agKu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412160861243-8ek9r715t40n4m89i9vijfebnjragvl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
