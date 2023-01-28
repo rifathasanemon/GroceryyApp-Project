@@ -1,16 +1,26 @@
-# grocery2
+# Gorcery App
 
-A new Flutter project.
+A Group Flutter project.
 
-## Getting Started
+### GROUP MEMBERS
+- **Emon Rifat Hasan     			(1832901)**
+- **Amnah Salah Majzob Abdelmaged 		(1828979)**
+- **Hibo Sulieman Amen           (1825120)**
+- **Rafa Elean Sugafta    (2011908)**
 
-This project is a starting point for a Flutter application.
+**Project Includes Three Major Function/Libraries :**
+- The use of Widgets
+- The use of HTTP library for fetching img online
+- The use of firebase for User LogIN authentication  
 
-A few resources to get you started if this is your first Flutter project:
+**Project Summary** : 
+This is a grocery app for online shopping. Our app allows users to get the experience of buying and paying for their groceries online. Users must register by filling in their information or linking their account to a google or apple id existing account they have, and later they can log in using their email and password or the account they linked. the main page has the list of products in our app. Each product has name, picture, and price to make it much easier for them to recognise the product. The user can easily add the product they want in the cart by clicking on the button that has the price then check the cart by pressing on the shopping bag icon at the corner to see the products they added, remove whatever they want, and even check the total price. They can make the payment by pressing the pay now button and confirmation page will pop-up.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Project Objective**
+- Make the process of buying groceries much easier.
+- Save the time and effort of the buyer.
+- Make the user feel safe while proceeding payment online.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###Screen Shots
+
+- 
